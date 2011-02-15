@@ -1,4 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails Tutorial Sample App | <%=@title%> </title>
+  </head>
+  <body>
     <h1>Contact</h1>
     <p>
       Contact RUby on Rails Tutorial about the sample app ath the <a href="http://sampleapp.com">feedback page</a>
     </p>
+  </body>
+</html>
